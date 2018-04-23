@@ -1,0 +1,19 @@
+{
+  "name": "invie",
+  "version": "1.0.0",
+  "description": "a simulation of a web page app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexyed/invie.git"
+  },
+  "author": "alexandro@openmailbox.org",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexyed/invie/issues"
+  },
+  "homepage": "https://github.com/alexyed/invie#readme"
+}
